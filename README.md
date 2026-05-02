@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# BJJ COURSES
 
-# Run and deploy your AI Studio app
+BJJ COURSES is a modern web platform for affordable Brazilian Jiu-Jitsu instructional courses.
 
-This contains everything you need to run your app locally.
+The goal of the app is to help users discover, buy, and access BJJ courses in a simple, fast, and intuitive way.
 
-View your app in AI Studio: https://ai.studio/apps/846d6429-008f-4182-bf7c-6b621c3174f2
+## Main Features
 
-## Run Locally
+- Modern home page for course discovery
+- Paid courses section
+- User profile dashboard
+- Checkout and payment flow
+- Course player view
+- Responsive design for desktop and mobile
+- Clean UI using black, blue, and green as the main colors
 
-**Prerequisites:**  Node.js
+## Tech Stack
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- React
+- TypeScript
+- Vite
+- CSS
